@@ -1,0 +1,16 @@
+Spec.
+
+we have recipes and recipes have cosine type.
+and recipe has ingredients with measurement and amount for example 1 oz water..
+the ingredients  has to be in a specific order (seq.).
+cosine has master list.
+ingredients has directions and steps in a particular order so it has numbers
+recipes are sometimes in draft so it is not on the website so we need to know when it was created, published and archived
+meal has a name and in the meal there are courses. each course can have multiple recipes. course have seq in the meal
+in the course there can be multiple recipes and in the meal there can be  multiple courses but no repeat course type like 2 appetisers in the same meal
+every recipe, ingredient, meal, book has a unique name 
+cookbooks has name price and recipes in it with seq how to be presented 
+picture names are made of a type like meal, ingredient etc. and then the name of it for example  ingredient-baby-carrot,jpg no spaces or punctuations all jpg
+
+recipes has different status like archived published etc. meals and cookbooks only have active or inactive no need for dates when it got active etc.
+Staff has a first and last name and a user name. meals, recipes, books are recorded which user created them 
